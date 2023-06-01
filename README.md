@@ -3,4 +3,4 @@
 Интерфейс swagger:
 ![Swagger](https://github.com/k0v1nar/ru.neoflex.practice/raw/main/Screenshot/Swagger.PNG)
 API для операции сложения:
-![API PLUS](https://github.com/k0v1nar/ru.neoflex.practice/raw/main/Screenshot/API for plus opertation.PNG)
+![API PLUS](https://github.com/k0v1nar/ru.neoflex.practice/raw/main/Screenshot/API_for_plus_opertation.PNG)
