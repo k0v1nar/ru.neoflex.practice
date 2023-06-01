@@ -1,5 +1,8 @@
 # ru.neoflex.practice
-Задание по производственной практике
+Задание по производственной практике. 
+# Создатель
+Студент ИСПО СПбПУ Петра Великого Костин Кирилл Денисович
+Группа 32919/6
 # Интерфейс swagger:
 ![Swagger](https://github.com/k0v1nar/ru.neoflex.practice/raw/main/Screenshot/Swagger.PNG)
 # API для операции сложения:
